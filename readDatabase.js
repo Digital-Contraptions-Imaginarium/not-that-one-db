@@ -1,3 +1,5 @@
+console.log("I am here!");
+
 var readDatabase = function (callback) {
     var tells = [ ];	
     d3.json("./tells.json", function (tempTells) {
