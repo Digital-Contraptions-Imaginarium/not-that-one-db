@@ -9,6 +9,15 @@
 		"warning_level": 1
 	},
 	{
+		"name": "homogenised_milk",
+		"pretty_name": "Homogensed milk",
+		"description": "The milk was homogenised.",
+		"references": [
+			"http://www.quickanddirtytips.com/health-fitness/healthy-eating/is-homogenized-milk-bad-for-you"
+		],
+		"warning_level": 2
+	},
+	{
 		"name": "soya_lecithin",
 		"pretty_name": "Soya lecithin",
 		"description": "Soya lecithin is in the ingredients, used likely as an emulsifier, replacing better quality ingredients, e.g. cocoa solids in chocolate. To grow soybeans, vast expanses of land in fragile ecosystems are put at risk in the Brazilian Cerrado, Amazon, Chaco and the Atlantic Forests of South America.",

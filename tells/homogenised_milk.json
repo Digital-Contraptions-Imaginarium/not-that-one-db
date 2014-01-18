@@ -1,0 +1,8 @@
+{
+	"products": [
+		{ 
+			"barcode": { "contents": "5036589201137", "format":"EAN_13", "type":"PRODUCT" }, 
+		  	"human-description": "Yeo Valley semi-skimmed milk, 1 litre"
+		}
+	]	
+}
