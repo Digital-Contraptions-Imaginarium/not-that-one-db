@@ -3,10 +3,6 @@
 		{ 
 			"barcode": { "contents": "5000169221037", "format":"EAN_13", "type":"PRODUCT" }, 
 		  	"human-description": "Waitrose Cooks' Home Baking - Use lashings of Glitter Strands"
-		},
-		{ 
-			"barcode": { "contents": "5000169221037", "format":"EAN_13", "type":"PRODUCT" }, 
-		  	"human-description": "TESTING Waitrose Cooks' Home Baking - Use lashings of Glitter Strands"
 		}
 	]	
 }
