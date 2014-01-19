@@ -2,7 +2,12 @@
 	"products": [
 		{ 
 			"barcode": { "contents": "5060065064114", "format":"EAN_13", "type":"PRODUCT" }, 
-		  	"human-description": "Montezuma's 'Treacle Tart' chocolate bar"
+		  	"human-description": "Montezuma's 'Treacle Tart' chocolate bar",
+		  	"notes": [
+                                 { "dateTime": "Sun Jan 19 2014 09:37:00 GMT+0000 (GMT)",
+                                  "author": "@giacecco",
+                                  "message": "Different Montezuma bars have different ingredients. This one passes my wife and my specs, so it is whitelisted." }
+                         ]
 		}
 	]	
 }
