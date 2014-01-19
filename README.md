@@ -16,3 +16,6 @@ You can define your own set of rules, too! Fork this repository and re-configure
 
 ## What is the format of the database?
 I will describe that someday, it is easy though. For the time being, guess :-)
+
+## Licence
+![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons License") This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and all its data is public domain.
