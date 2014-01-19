@@ -18,9 +18,9 @@
 		"warning_level": 2
 	},
 	{
-		"name": "pork_meat_in_sausages",
-		"pretty_name": "% of pork meat in sausages",
-		"description": "The % of pork meat in the sausages receipt is below target. Is that about spicies or starch?",
+		"name": "meat_in_sausages",
+		"pretty_name": "Less than 80% of meat in sausages",
+		"description": "The % of meat in the sausages receipt is less than 80%. Is that about spicies or starch?",
 		"references": [
 			"http://www.fao.org/docrep/010/ai407e/ai407e16.htm"
 		],
