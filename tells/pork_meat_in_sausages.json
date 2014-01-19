@@ -4,9 +4,9 @@
 			"barcode": { "contents": "01081275", "format":"EAN_8", "type":"PRODUCT" }, 
 		  	"human-description": "8 British pork sausages by Sainsbury's",
 		  	"notes": [
-		  		{ dateTime: "Sun Jan 19 2014 09:31:30 GMT+0000 (GMT)",
-		  		  author: "@giacecco", 
-		  		  message: "This is just an example note." }
+		  		{ "dateTime": "Sun Jan 19 2014 09:31:30 GMT+0000 (GMT)",
+		  		  "author": "@giacecco", 
+		  		  "message": "This is just an example note." }
 		  	]
 		}
 	]	
