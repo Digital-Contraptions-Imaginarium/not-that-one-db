@@ -1,0 +1,8 @@
+{
+	"products": [
+		{ 
+			"barcode": { "contents": "01081275", "format":"EAN_8", "type":"PRODUCT" }, 
+		  	"human-description": "Sainsbury sausages (better label needed)"
+		}
+	]	
+}

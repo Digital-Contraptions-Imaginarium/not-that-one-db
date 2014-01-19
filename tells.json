@@ -18,6 +18,15 @@
 		"warning_level": 2
 	},
 	{
+		"name": "pork_meat_in_sausages",
+		"pretty_name": "% of pork meat in sausages",
+		"description": "The % of pork meat in the sausages receipt is below target. Is that about spicies or starch?",
+		"references": [
+			"http://www.fao.org/docrep/010/ai407e/ai407e16.htm"
+		],
+		"warning_level": 1
+	},
+	{
 		"name": "soya_lecithin",
 		"pretty_name": "Soya lecithin",
 		"description": "Soya lecithin is in the ingredients, used likely as an emulsifier, replacing better quality ingredients, e.g. cocoa solids in chocolate. To grow soybeans, vast expanses of land in fragile ecosystems are put at risk in the Brazilian Cerrado, Amazon, Chaco and the Atlantic Forests of South America.",
