@@ -2,7 +2,7 @@
 	{
 		"name": "foodmiles",
 		"pretty_name": "Food miles",
-		"description": "The item may have travelled too far before it reached the customer.",
+		"description": "The item has likely travelled too far before reaching you.",
 		"references": [
 			"http://www.foodmiles.com/"
 		],
