@@ -23,9 +23,9 @@ As the name suggests, the [whitelist](https://github.com/giacecco/not-that-one-d
 
 [Tells](https://github.com/giacecco/not-that-one-db/blob/master/tells.json) instead are the descriptions of issues.
 
-These are then referenced by one dedicated file per tell, that list the products that match that tell and hence are unsuitable for consumption, e.g. the one about [pork meat in sausages](https://github.com/giacecco/not-that-one-db/blob/master/tells/pork_meat_in_sausages.json).
+These are then referenced by one dedicated file per tell, that lists the products that match that tell and hence are unsuitable for consumption, e.g. the one about [pork meat in sausages](https://github.com/giacecco/not-that-one-db/blob/master/tells/pork_meat_in_sausages.json).
 
-See the files themselves for their format. 
+See the files themselves for their format.
 
 ##Licence
 ![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons License") This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and all its data is public domain.
