@@ -4,6 +4,8 @@ not-that-one-db
 ## Introduction
 This repository contains the set of rules by which [@Giacecco](https://twitter.com/giacecco) chooses what packaged food **not** to buy, using the (upcoming) Digital Contraptions Imaginarium's [**Not That One!**](http://www.digitalcontraptionsimaginarium.co.uk/not-that-one/) mobile app.
 
+The source for the data is @Giacecco himself, going around supermarkets and spotting products that shouldn't be bought, or - in the future - other contributors doing the same.
+
 ## You are welcome to contribute...
 You can contribute to this repository by forking it and submitting your improvements back as pull requests. E.g. if you find one more brand that homogenise their milk, add it [here](https://github.com/giacecco/not-that-one-db/blob/master/tells/homogenised_milk.json). Or, if you mistakenly bought sausages with little or no pork in them, add them [here](https://github.com/giacecco/not-that-one-db/blob/master/tells/pork_meat_in_sausages.json). 
 
