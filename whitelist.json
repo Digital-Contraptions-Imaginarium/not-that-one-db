@@ -2,7 +2,7 @@
 	"products": [
 		{ 
 			"barcode": { "contents": "5000169940518", "format":"EAN_13", "type":"PRODUCT" }, 
-		  	"human-description": "Duchys Originals from Waitrose - Pasteurised semi-skimmed milk - 1 litre",
+		  	"human-description": "Duchys Originals from Waitrose - Pasteurised semi-skimmed milk - 1 litre"
 		},
 		{ 
 			"barcode": { "contents": "5060065064114", "format":"EAN_13", "type":"PRODUCT" }, 
