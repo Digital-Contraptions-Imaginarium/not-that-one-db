@@ -7,9 +7,9 @@ This repository contains the set of rules by which [@Giacecco](https://twitter.c
 The source for the data is @Giacecco himself, going around supermarkets and spotting products that shouldn't be bought, or - in the future - other contributors doing the same. @Giacecco won't generally be able to check that the data being submitted by contributors is truthful, althoigh he will assure the consistency of the file format, as that can break the whole system.
 
 ##You are welcome to contribute...
-You can contribute to this repository by forking it and submitting your improvements back as pull requests. E.g. if you find one more brand that homogenise their milk, add it [here](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/homogenised_milk.json). Or, if you mistakenly bought sausages with little or no pork in them, add them [here](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/pork_meat_in_sausages.json). 
+You can contribute to this repository by forking it and submitting your improvements back as pull requests. E.g. if you find one more brand that homogenise their milk, add it [here](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/homogenised_milk.json). Or, if you mistakenly bought sausages with little or no pork in them, add them [here](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/meat_in_sausages.json). 
 
-You are welcome to leave notes alongside your findings, see an example of how to do it [here](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/pork_meat_in_sausages.json).
+You are welcome to leave notes alongside your findings, see an example of how to do it [here](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/meat_in_sausages.json).
 
 ##... or to define rules of your own
 You can define your own set of rules, too! Fork this repository and re-configure your **Not That One!** app to point at your rules rather than @Giacecco's. You can see [here](http://digital-contraptions-imaginarium.github.io/not-that-one/#/4/1) how that is done. Note that the repository name must be "not-that-one-db".
@@ -23,7 +23,7 @@ As the name suggests, the [whitelist](https://github.com/Digital-Contraptions-Im
 
 [Tells](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells.json) instead are the descriptions of issues.
 
-These are then referenced by one dedicated file per tell, that lists the products that match that tell and hence are unsuitable for consumption, e.g. the one about [pork meat in sausages](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/pork_meat_in_sausages.json).
+These are then referenced by one dedicated file per tell, that lists the products that match that tell and hence are unsuitable for consumption, e.g. the one about [pork meat in sausages](https://github.com/Digital-Contraptions-Imaginarium/not-that-one-db/blob/master/tells/meat_in_sausages.json).
 
 See the files themselves for their format.
 
